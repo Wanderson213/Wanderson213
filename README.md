@@ -1,10 +1,23 @@
 
-### Olá! Eu sou o Wanderson Cesar
+<img
+width="10%" 
+align="center" 
+valign="middle" 
+src="https://tesw.com.br/wp-content/uploads/2022/12/976fe693-6e2a-4d49-b645-12fad99b7b4b.jpg" 
+target="_blank" 
+/>
+
+  
+  
+  <div align="center">
+  Olá! Eu sou o Wanderson Cesar
 
 
--  Apaixonado por tecnologia
--  Desenvolvedor Front End na TESW /tesw.com.br
--  Estudante de Sistemas para internet  5/6
+  Apaixonado por tecnologia
+  Desenvolvedor Front End na TESW /tesw.com.br
+  Estudante de Sistemas para internet  5/6
+
+  </div>
 
 
 <div align="center">
