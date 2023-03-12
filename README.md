@@ -61,5 +61,7 @@
       <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wanderson-Cesar}/count.svg" /></p> 
       <br>
       </div>  
-  
+    <div align="center">
+      ![Snake animation](https://github.com/Wanderson-Cesar/Wanderson-Cesar/blob/output/github-contribution-grid-snake.svg)
+     </div>  
   
