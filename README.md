@@ -10,20 +10,20 @@
   
     
     
-    <div align="center">
     
-    <h1>
-    ### Olá! Eu sou o Wanderson Cesar
+   <h1 align="center">
+   Olá! Eu sou o Wanderson Cesar
   
-  
+   </h1>
+    <p align="center"> 
     Apaixonado por tecnologia
     <br>
-    Desenvolvedor Front End na TESW /tesw.com.br
+    Desenvolvedor Front End na TESW /tesw.com.br/
     <br>
     Estudante de Sistemas para internet  5/6
-   </h1>
+    </p>
   
-    </div>
+   
   
   
   <div align="center">
