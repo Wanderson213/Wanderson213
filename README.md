@@ -30,8 +30,18 @@
   </div>
   <br>
    
+  
+<div align="center">
+<a href="https://github.com/Wanderson-Cesar">
+<img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wanderson-Cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/Wanderson-Cesar">
+  <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
+</a>
+</div>
+  
   <div align="center" style="display: inline_block">
-    <img align="center" alt="Wanderson-Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Wanderson-Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
     <img align="center" alt="wandrson-Cesar-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Wanderson-Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wanderson-Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
