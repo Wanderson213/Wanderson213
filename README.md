@@ -1,11 +1,11 @@
-<div align="center">
+
 ### Olá! Eu sou o Wanderson Cesar
 
 
 -  Apaixonado por tecnologia
 -  Desenvolvedor Front End na TESW /tesw.com.br
 -  Estudante de Sistemas para internet  5/6
-</div>
+
 <div align="center">
   <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wanderson-Cesar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -29,21 +29,25 @@
 
 
   </div>
+  
+  <div align="center"> 
+    <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href = " " target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = " " target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+      
+  </div>
+     
   <div align="center">
     <br><p align="center"><b>Contador de Visitantes</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wanderson-Cesar}/count.svg" /></p> 
     <br>
     </div>
   
-##
+   <div align="center">
+    ![Snake animation](https://github.com/Wanderson-Cesar/Wanderson-Cesar/blob/output/github-contribution-grid-snake.svg)
+   </div>
 
-<div align="center"> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = " " target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = " " target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    
-  ![Snake animation](https://github.com/Wanderson-Cesar/Wanderson-Cesar/blob/output/github-contribution-grid-snake.svg)
-</div>
+
