@@ -1,10 +1,11 @@
-
+<div align="center">
 ### Olá! Eu sou o Wanderson Cesar
 
 
 -  Apaixonado por tecnologia
 -  Desenvolvedor Front End na TESW /tesw.com.br
 -  Estudante de Sistemas para internet  5/6
+</div>
 
 <div align="center">
   <a href="">
@@ -49,6 +50,4 @@
    <div align="center">
     ![Snake animation](https://github.com/Wanderson-Cesar/Wanderson-Cesar/blob/output/github-contribution-grid-snake.svg)
    </div>
-
-
 
