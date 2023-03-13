@@ -21,6 +21,13 @@
     <br>
     Estudante de Sistemas para internet, IFPB  5/6
     </p>
+    
+    <a href="https://github.com/Renan-Thierry">
+<img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renan-Thierry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/Renan-Thierry">
+  <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renan-Thierry&layout=compact&langs_count=7&theme=dracula" />
+</a>
   
   <div align="center">
     <a href="https://github.com/Wanderson-Cesar">
