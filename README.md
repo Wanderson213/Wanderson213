@@ -4,6 +4,7 @@
   align="center" 
   valign="middle" 
   src="https://tesw.com.br/wp-content/uploads/2022/12/976fe693-6e2a-4d49-b645-12fad99b7b4b.jpg" 
+  src="976fe693-6e2a-4d49-b645-12fad99b7b4b__1_-removebg-preview.png"
   target="_blank" 
   />
   </div>
