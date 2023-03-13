@@ -19,7 +19,7 @@
     <br>
     Desenvolvedor Front End na TESW /tesw.com.br/
     <br>
-    Estudante de Sistemas para internet  5/6
+    Estudante de Sistemas para internet, IFPB  5/6
     </p>
   
   <div align="center">
