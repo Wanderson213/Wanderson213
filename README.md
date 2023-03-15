@@ -21,7 +21,7 @@
     <br>
     Estudante de Sistemas para internet, IFPB  5/6
     </p>
-    <div align="center">
+    <div align="">
     <a href="https://github.com/Wanderson-Cesar">
 <img height="170rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wanderson-Cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
