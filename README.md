@@ -32,7 +32,7 @@
   <img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
 </a>
 </div>
-<br><br> 
+<br>
    
   <div align="center" style="display: inline_block">
     <img align="center" alt="Wanderson-Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
