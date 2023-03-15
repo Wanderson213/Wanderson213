@@ -27,9 +27,9 @@
 </a>
   
 <a href="https://github.com/Wanderson-Cesar">
-  <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180rem" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
 </a>
-<br> 
+<br><br> 
    
   <div align="center" style="display: inline_block">
     <img align="center" alt="Wanderson-Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
