@@ -21,10 +21,11 @@
     <br>
     Estudante de Sistemas para internet, IFPB  5/6
     </p>
-    <div align="">
-    <a href="https://github.com/Wanderson-Cesar">
+    
+<a href="https://github.com/Wanderson-Cesar">
 <img height="170rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wanderson-Cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
+  <div align"center">
 <a href="https://github.com/Wanderson-Cesar">
   <img height="170rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
 </a>
@@ -39,7 +40,6 @@
     <img align="center" alt="Wanderson-Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wanderson-Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wanderson-Cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Wanderson-Cesar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Wanderson-Cesar-nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
     <img align="center" alt="Wanderson-Cesar-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" alt="Wanderson-Cesar-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
