@@ -23,10 +23,10 @@
     </p>
     <div align="center">
     <a href="https://github.com/Wanderson-Cesar">
-<img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wanderson-Cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="170rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wanderson-Cesar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/Wanderson-Cesar">
-  <img height="180rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
+  <img height="170rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wanderson-Cesar&layout=compact&langs_count=7&theme=dracula" />
 </a>
 </div>
   
